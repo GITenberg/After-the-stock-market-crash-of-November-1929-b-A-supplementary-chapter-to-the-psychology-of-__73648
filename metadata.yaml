@@ -1,5 +1,8 @@
 _repo: After-the-stock-market-crash-of-November-1929-b-A-supplementary-chapter-to-the-psychology-of-__73648
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73648-h/images/cover.jpg
 creator:
   author:
     agent_name: Harper, Henry Howard
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '25440'
     url: http://www.gutenberg.org/2009/agents/25440
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73648#After-the-stock-market-crash-of-November-1929-b-A-supplementary-chapter-to-the-psychology-of-_
 gutenberg_issued: '2024-05-18'
 gutenberg_type: Text
 identifiers:
